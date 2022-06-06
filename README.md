@@ -24,6 +24,7 @@
 
 ## Description
 
+Test API with users, user roles and data validation.
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
